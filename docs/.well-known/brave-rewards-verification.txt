@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: bitbot.plus
-Token: 4ea061996c177b8ec3bbd883530695e5082a7042a4dba0b4b08d40e494f1a425
