@@ -17,6 +17,10 @@ e-planning.net, 393519737956f8ae, DIRECT, c1ba615865ed87b2
 rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
 inmobi.com, f73add69216f42d9ba45940a548416d3, RESELLER, 83e75a7ae333ca9d
 
+#pubwise.io :: Contacted by email
+pubwise.io, 22376824, DIRECT, c327c91a93a7cdd3
+pubmatic.com, 164282, RESELLER, 5d62403b186f2ace
+
 ## YODO1.com :: https://hpks.ads-txt.site/app-ads.txt
 ## MCM specific
 yodo1.com, 624091a8618701dac4c7e655, DIRECT
