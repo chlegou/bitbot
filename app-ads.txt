@@ -6,6 +6,15 @@ facebook.com, 509489683074552, DIRECT, c3e20eee3f780d68
 tsyndicate.com, 34891
 
 #edge226.com :: Contacted by email
+loopme.com, 11601, RESELLER, 6c8d5f95897a5a3b
+snack-media.com, SNM_4218, RESELLER
+appnexus.com, 7582, RESELLER, f5ab79cb980f11d1
+triplelift.com, 7613, RESELLER, 6c33edb13117fd86
+freewheel.tv, 1608199, RESELLER
+lemmatechnologies.com, 1649, RESELLER, 7829010c5bebd1fb
+video.unrulymedia.com, 8167205979129043832, RESELLER
+freewheel.tv, 1585652, RESELLER
+
 dauup.com, 43033, DIRECT
 peak226.com, 25037, DIRECT
 orangeclickmedia.com, C-1181, Direct
